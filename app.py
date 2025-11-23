@@ -307,4 +307,4 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:
 # --- 앱 실행 ---
 if __name__ == "__main__":
     print("Gradio 앱을 실행합니다. http://127.0.0.1:7860 에서 확인하세요.")
-    demo.launch()
+    demo.launch(share=True)
