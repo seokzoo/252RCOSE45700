@@ -4,7 +4,7 @@
 
  - 조석주 (기획 및 개발) 
 
-## 기능 소개
+## 기능 소개 
 
  - Streamlit 대안으로 Gradio 사용
  - OpenAI API 활용
